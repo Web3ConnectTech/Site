@@ -149,7 +149,7 @@ img {
 /*=============== HOME ===============*/
 .home {
   background-color: var(--first-color);
-  padding: 12rem 0 2rem;
+  padding: 10rem 0 2rem;
   height: 100vh;
   display: grid;
 }
