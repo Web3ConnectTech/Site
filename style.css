@@ -22,7 +22,7 @@
 /* Responsive typography */
 @media screen and (min-width: 1024px) {
   :root {
-    --biggest-font-size: 3rem;
+    --biggest-font-size: 2.5rem;
     --normal-font-size: 1.1rem;
     --smaller-font-size: .85rem;
   }
@@ -97,7 +97,7 @@ img {
 .logo {
     margin: 5;
     width: 50%;
-    max-height: 64px;
+    max-height: 4rem;
     overflow: visible;
     font-size: var(--biggest-font-size);
 }
