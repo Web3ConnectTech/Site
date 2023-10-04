@@ -94,7 +94,7 @@ img {
 }
 
 .logo {
-    margin: 5;
+    width: auto;
     max-height: 2.3rem;
     overflow: visible;
     font-size: var(--biggest-font-size);
